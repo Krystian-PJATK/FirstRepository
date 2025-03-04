@@ -1,0 +1,15 @@
+c:\Users\s30354\Desktop\FirstRepository\bin\Debug\net8.0\FirstRepository.exe
+C:\Users\s30354\Desktop\FirstRepository\bin\Debug\net8.0\FirstRepository.deps.json
+C:\Users\s30354\Desktop\FirstRepository\bin\Debug\net8.0\FirstRepository.runtimeconfig.json
+c:\Users\s30354\Desktop\FirstRepository\bin\Debug\net8.0\FirstRepository.dll
+c:\Users\s30354\Desktop\FirstRepository\bin\Debug\net8.0\FirstRepository.pdb
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.AssemblyInfoInputs.cache
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.AssemblyInfo.cs
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.csproj.CoreCompileInputs.cache
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.sourcelink.json
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.dll
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\refint\FirstRepository.dll
+c:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.pdb
+C:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\FirstRepository.genruntimeconfig.cache
+C:\Users\s30354\Desktop\FirstRepository\obj\Debug\net8.0\ref\FirstRepository.dll
